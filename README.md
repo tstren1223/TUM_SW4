@@ -129,6 +129,7 @@ Graphical user interface
 3. Assembly Machine View
    <img width="567" alt="image" src="https://github.com/tstren1223/TUM_SW4/assets/64294878/b114a0fd-b218-45ea-98e6-8c310b02b400">
 Graphical user interface
-![image](https://github.com/tstren1223/TUM_SW4/assets/64294878/ba0edb7c-6f44-4f42-a7b3-6050ac828d8d)
+![image](https://github.com/tstren1223/TUM_SW4/assets/64294878/1de46478-3c98-4760-a1f5-3d595ce7fb3f)
+
 
 # TUM_SW4
