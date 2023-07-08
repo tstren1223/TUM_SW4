@@ -1,3 +1,4 @@
+# TUM_SW4
 1:
 Model View Controller Exercise 1
 We are excited to introduce the new campus management system TUMOffline, however the implementation is not ready yet. Implement the last steps of the course management. In the end, we want a system that is capable of adding new courses and listing existing courses. The views that display a single course and display all courses should always be synchronized. To do so, the system should follow the general approach of the Model View Controller (MVC) architectural style.
@@ -133,4 +134,4 @@ Graphical user interface
 
 
 
-# TUM_SW4
+
