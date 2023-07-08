@@ -125,11 +125,12 @@ Graphical user interface
 2. Transistor Machine View
    <img width="467" alt="image" src="https://github.com/tstren1223/TUM_SW4/assets/64294878/a602e2c6-932d-4974-bbbd-89ee1b398722">
 Graphical user interface
-![image](https://github.com/tstren1223/TUM_SW4/assets/64294878/81462e18-cf91-494a-b6f9-26f6641a8e6f)
+<img width="394" alt="image" src="https://github.com/tstren1223/TUM_SW4/assets/64294878/48a04625-12a9-4744-83e4-72a486a2c6a0">
 3. Assembly Machine View
    <img width="567" alt="image" src="https://github.com/tstren1223/TUM_SW4/assets/64294878/b114a0fd-b218-45ea-98e6-8c310b02b400">
 Graphical user interface
-![image](https://github.com/tstren1223/TUM_SW4/assets/64294878/1de46478-3c98-4760-a1f5-3d595ce7fb3f)
+<img width="359" alt="image" src="https://github.com/tstren1223/TUM_SW4/assets/64294878/fc43ce18-0a87-4aee-ab87-12bf4a2a7d80">
+
 
 
 # TUM_SW4
